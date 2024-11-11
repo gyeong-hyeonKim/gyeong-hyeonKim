@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20201561kimgyeonghyeon&label=Profile%20views&color=0e75b6&style=flat" alt="20201561kimgyeonghyeon" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://20201561kimgyeonghyeon.github.io/)
+- 🔭 I’m currently working on [DongseoUniversity](https://20201561kimgyeonghyeon.github.io/)
 
 - 🌱 I’m currently learning **Algorithm with Python**
 
