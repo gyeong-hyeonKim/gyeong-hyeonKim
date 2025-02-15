@@ -1,23 +1,77 @@
-<h1 align="center">Hi 👋, I'm Gyeonghyeon KIm</h1>
-<h3 align="center">I'm a computer engineering student at Dongseo University</h3>
+# 👋 Welcome to My GitHub Portfolio
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=20201561kimgyeonghyeon&label=Profile%20views&color=0e75b6&style=flat" alt="20201561kimgyeonghyeon" /> </p>
+## 🚀 About Me
 
-- 🔭 I’m currently working on [DongseoUniversity](https://20201561kimgyeonghyeon.github.io/)
+- **Name:** [Your Name]
+- **Major:** Computer Science
+- **Interests:** AI, Cloud Computing, Autonomous Ships, Bioinformatics
+- **Current Status:** Senior at Dongseo University
+- **Portfolio Website:** [Your Website URL]
+- **Contact:** [Your Email]
 
-- 🌱 I’m currently learning **Algorithm with Python**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/20201561KimGyeongHyeon](https://github.com/20201561KimGyeongHyeon)
+## 🛠 Tech Stack
 
-- 📝 I regularly write articles on [https://20201561kimgyeonghyeon.github.io/](https://20201561kimgyeonghyeon.github.io/)
+**Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
-- 📫 How to reach me **kkl5563@naver.com**
+**Technologies & Tools**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00599C?style=for-the-badge)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🌟 Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=20201561kimgyeonghyeon&show_icons=true&locale=en&layout=compact" alt="20201561kimgyeonghyeon" /></p>
+### 🔹 [Spoti-Firefighter](https://www.youtube.com/watch?v=MiR1SOUwwOs)
+**Description:** A PTSD relief system for firefighters using AI-driven music therapy with Spotify.  
+- Collaborated with Spotify to create a specialized playlist for firefighters.
+- Designed an AI-based recommendation system for PTSD music therapy.
+- Built a firefighter-exclusive community for emotional support.
+
+### 🔹 Autonomous Ship Navigation Optimization
+**Description:** AI-based system for optimizing piloting routes in autonomous ships.  
+- Developed a real-time AI model to calculate the safest and most efficient ship routes.
+- Used TensorFlow and ROS for simulation and prediction.
+
+### 🔹 Braille Learning Device
+**Description:** A hardware device for visually impaired individuals to learn Braille through haptic feedback.  
+- Integrated multiple solenoids to form Braille characters.
+- Added wireless connectivity for interactive learning.
+
+---
+
+## 🎓 Experience & Achievements
+
+- **Clio Awards & Red Dot Award Submission**: Developed "Spoti-Firefighter" for PTSD therapy (2025).
+- **Hackathon (Vietnam, 2024)**: Participated in an international hackathon, building AI-driven accessibility tools.
+- **Dongseo University AI Research Team**: Worked on AI-based image processing & cloud computing.
+- **Global Competency Enhancement Program**: Selected for a prestigious international research exchange.
+
+---
+
+## 📚 Research & Publications
+
+- **Paper Title 1** - [Link to Paper]
+- **Paper Title 2** - [Link to Paper]
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+---
+
+## 📞 Contact Me
+
+📧 Email: [Your Email]  
+🌐 Website: [Your Portfolio URL]  
+🔗 LinkedIn: [Your LinkedIn Profile]  
+🐦 Twitter: [Your Twitter Handle]
+
+Feel free to reach out for collaborations or discussions! 🚀
