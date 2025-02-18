@@ -2,12 +2,12 @@
 
 ## 🚀 About Me
 
-- **Name:** [Your Name]
+- **Name:** [Kim GyeongHyeon]
 - **Major:** Computer Science
-- **Interests:** AI, Cloud Computing, Autonomous Ships, Bioinformatics
+- **Interests:** AI, Computer Vision, Deep Learning, Machine Learning
 - **Current Status:** Senior at Dongseo University
 - **Portfolio Website:** [Your Website URL]
-- **Contact:** [Your Email]
+- **Contact:** [kkl01234567@gmail.com]
 
 ---
 
@@ -28,6 +28,7 @@
 
 ### 🔹 [Spoti-Firefighter](https://www.youtube.com/watch?v=MiR1SOUwwOs)
 **Description:** A PTSD relief system for firefighters using AI-driven music therapy with Spotify.  
+
 - Collaborated with Spotify to create a specialized playlist for firefighters.
 - Designed an AI-based recommendation system for PTSD music therapy.
 - Built a firefighter-exclusive community for emotional support.
@@ -69,9 +70,8 @@
 
 ## 📞 Contact Me
 
-📧 Email: [Your Email]  
+📧 Email: [kkl01234567@gmail.com]  
 🌐 Website: [Your Portfolio URL]  
 🔗 LinkedIn: [Your LinkedIn Profile]  
-🐦 Twitter: [Your Twitter Handle]
 
 Feel free to reach out for collaborations or discussions! 🚀
