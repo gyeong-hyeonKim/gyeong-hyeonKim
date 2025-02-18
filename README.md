@@ -6,7 +6,7 @@
 - **Major:** Computer Science
 - **Interests:** AI, Computer Vision, Deep Learning, Machine Learning
 - **Current Status:** Senior at Dongseo University
-- **Portfolio Website:** [Your Website URL]
+- **Portfolio Website:** [https://20201561kimgyeonghyeon.github.io/]
 - **Contact:** [kkl01234567@gmail.com]
 
 ---
@@ -38,7 +38,7 @@
 - Developed a real-time AI model to calculate the safest and most efficient ship routes.
 - Used TensorFlow and ROS for simulation and prediction.
 
-### 🔹 Braille Learning Device
+### 🔹 [Braille Learning Device](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
 **Description:** A hardware device for visually impaired individuals to learn Braille through haptic feedback.  
 - Integrated multiple solenoids to form Braille characters.
 - Added wireless connectivity for interactive learning.
@@ -53,13 +53,15 @@
 ### 🏆 2024
 
 **Awards:**
-- **AISW 아이디어 경진대회 우수상**: AI 분야의 창의적인 아이디어를 인정받아 수상.
-- **IR 모의 피칭 대회 우수상**: 혁신적인 비즈니스 아이디어를 효과적으로 발표하여 수상.
-- **창의적 종합설계 경진대회 은상**: 팀 프로젝트를 통해 창의적인 설계 능력을 인정받아 은상 수상.
+- **[AISW 아이디어 경진대회 우수상](https://20201561kimgyeonghyeon.github.io/ideafestival/)**: AI 분야의 창의적인 아이디어를 인정받아 수상.
+- **[IR 모의 피칭 대회 우수상](https://20201561kimgyeonghyeon.github.io/irpitching/)**: 혁신적인 비즈니스 아이디어를 효과적으로 발표하여 수상.
+- **[창의적 종합설계 경진대회 은상](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)**: 팀 프로젝트를 통해 창의적인 설계 능력을 인정받아 은상 수상.
 
 **Conferences:**
 
-- **ICCAS 2024 in UK**: 영국에서 열린 국제 컨퍼런스인 ICCAS 2024에 참가하여 연구 발표 및 최신 기술 동향 파악.
+- **[ICCAS 2024 in UK](https://20201561kimgyeonghyeon.github.io/ICCAS2/)**: 영국에서 열린 국제 컨퍼런스인 ICCAS 2024에 참가하여 연구 발표 및 최신 기술 동향 파악.
+- **[AI KOREA 2024](https://20201561kimgyeonghyeon.github.io/AIKOREA/)**: 서울 코엑스에서 개최된 AI 박람회 참관
+- **[2024 K-ICT Week in Busan (AI Korea)](https://20201561kimgyeonghyeon.github.io/ictweek/)**: 부산 벡스코에서 개최된 2024 K-ICT Week in Busan (AI Korea) 전시자로 참여
 
 ---
 
@@ -80,7 +82,7 @@
 ## 📞 Contact Me
 
 📧 Email: [kkl01234567@gmail.com]  
-🌐 Website: [Your Portfolio URL]  
+🌐 Website: [https://20201561kimgyeonghyeon.github.io/]  
 🔗 LinkedIn: [Your LinkedIn Profile]  
 
 Feel free to reach out for collaborations or discussions! 🚀
