@@ -47,10 +47,19 @@
 
 ## 🎓 Experience & Achievements
 
-- **Clio Awards & Red Dot Award Submission**: Developed "Spoti-Firefighter" for PTSD therapy (2025).
-- **Hackathon (Vietnam, 2024)**: Participated in an international hackathon, building AI-driven accessibility tools.
-- **Dongseo University AI Research Team**: Worked on AI-based image processing & cloud computing.
-- **Global Competency Enhancement Program**: Selected for a prestigious international research exchange.
+### 🏆 2025
+- **Clio Awards & Red Dot Award Submission**: Developed "Spoti-Firefighter" for PTSD therapy.
+
+### 🏆 2024
+
+**Awards:**
+- **AISW 아이디어 경진대회 우수상**: AI 분야의 창의적인 아이디어를 인정받아 수상.
+- **IR 모의 피칭 대회 우수상**: 혁신적인 비즈니스 아이디어를 효과적으로 발표하여 수상.
+- **창의적 종합설계 경진대회 은상**: 팀 프로젝트를 통해 창의적인 설계 능력을 인정받아 은상 수상.
+
+**Conferences:**
+
+- **ICCAS 2024 in UK**: 영국에서 열린 국제 컨퍼런스인 ICCAS 2024에 참가하여 연구 발표 및 최신 기술 동향 파악.
 
 ---
 
