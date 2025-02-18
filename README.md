@@ -41,9 +41,11 @@
 ### 🏆 2024
 
 **Awards:**
-- **[AISW 아이디어 경진대회 우수상](https://20201561kimgyeonghyeon.github.io/ideafestival/)**: AI 분야의 창의적인 아이디어를 인정받아 수상.
-- **[IR 모의 피칭 대회 우수상](https://20201561kimgyeonghyeon.github.io/irpitching/)**: 혁신적인 비즈니스 아이디어를 효과적으로 발표하여 수상.
+- **[동서대학교 학술제](https://20201561kimgyeonghyeon.github.io/showmethedongseoai/)**: 2024년 한해 우수했던 작품을 전시, 깃허브 포토폴리오 발표하여 최우수상, 장려상 수상.
 - **[창의적 종합설계 경진대회 은상](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)**: 팀 프로젝트를 통해 창의적인 설계 능력을 인정받아 은상 수상.
+- **[IR 모의 피칭 대회 우수상](https://20201561kimgyeonghyeon.github.io/irpitching/)**: 혁신적인 비즈니스 아이디어를 효과적으로 발표하여 수상.
+- **[AISW 아이디어 경진대회 우수상](https://20201561kimgyeonghyeon.github.io/ideafestival/)**: AI 분야의 창의적인 아이디어를 인정받아 수상.
+
 
 **Conferences:**
 
