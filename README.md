@@ -2,12 +2,12 @@
 
 ## 🚀 About Me
 
-- **Name:** [Kim GyeongHyeon]
+- **Name:** Kim GyeongHyeon
 - **Major:** Computer Science
 - **Interests:** AI, Computer Vision, Deep Learning, Machine Learning
 - **Current Status:** Senior at Dongseo University
-- **Portfolio Website:** [https://20201561kimgyeonghyeon.github.io/]
-- **Contact:** [kkl01234567@gmail.com]
+- **Portfolio Website:** [Portfolio](https://20201561kimgyeonghyeon.github.io/)
+- **Contact:** kkl01234567@gmail.com
 
 ---
 
@@ -26,18 +26,6 @@
 
 ## 🌟 Projects
 
-### 🔹 [Spoti-Firefighter](https://www.youtube.com/watch?v=MiR1SOUwwOs)
-**Description:** A PTSD relief system for firefighters using AI-driven music therapy with Spotify.  
-
-- Collaborated with Spotify to create a specialized playlist for firefighters.
-- Designed an AI-based recommendation system for PTSD music therapy.
-- Built a firefighter-exclusive community for emotional support.
-
-### 🔹 Autonomous Ship Navigation Optimization
-**Description:** AI-based system for optimizing piloting routes in autonomous ships.  
-- Developed a real-time AI model to calculate the safest and most efficient ship routes.
-- Used TensorFlow and ROS for simulation and prediction.
-
 ### 🔹 [Braille Learning Device](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
 **Description:** A hardware device for visually impaired individuals to learn Braille through haptic feedback.  
 - Integrated multiple solenoids to form Braille characters.
@@ -48,7 +36,7 @@
 ## 🎓 Experience & Achievements
 
 ### 🏆 2025
-- **Clio Awards & Red Dot Award Submission**: Developed "Spoti-Firefighter" for PTSD therapy.
+- 
 
 ### 🏆 2024
 
