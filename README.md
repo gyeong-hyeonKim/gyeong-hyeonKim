@@ -3,9 +3,9 @@
 ## 🚀 About Me
 
 - **Name:** Kim GyeongHyeon
-- **Major:** Computer Science
-- **Interests:** AI, Computer Vision, Deep Learning, Machine Learning
-- **Current Status:** Senior at Dongseo University
+- **Major:** Department of Computer Science and Engineering
+- **Interests:** AI, Computer Vision, Deep Learning, Machine Learning, RL
+- **Current Status:** Bachelor Student at Dongseo University
 - **Portfolio Website:** [Portfolio](https://20201561kimgyeonghyeon.github.io/)
 - **Contact:** kkl01234567@gmail.com
 
@@ -14,12 +14,10 @@
 ## 🛠 Tech Stack
 
 **Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **Technologies & Tools**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00599C?style=for-the-badge)
 
 ---
@@ -110,6 +108,6 @@
 
 📧 Email: [kkl01234567@gmail.com]  
 🌐 Website: [https://20201561kimgyeonghyeon.github.io/]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
+🔗 LinkedIn: []  
 
 Feel free to reach out for collaborations or discussions! 🚀
