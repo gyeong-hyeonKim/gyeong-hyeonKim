@@ -11,20 +11,9 @@
 
 ---
 
-## 🛠 Tech Stack
-
-**Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-**Technologies & Tools**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00599C?style=for-the-badge)
-
----
-
 ## 🌟 Research & Project Experiences
 
-### 🔹 [•	Integrated evaluation and optimization tools to improve accuracy of generative video ai](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
+### 🔹 [Integrated evaluation and optimization tools to improve accuracy of generative video ai](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
 **Description:**  
 **Period:** Mar. 2025 ~ Present  
 **Role:** Team Leader & Pipeline Implementation 
@@ -33,7 +22,7 @@
 - Extract frames from video using OpenCV, Analyzed object presence and semantic similarity using YOLO and CLIP score
 - A Large Language Model (LLM) was used to analyze the evaluation results and generate optimized prompt suggestions
 
-### 🔹 [•	The structure of the large language model(LLM) application process for designing the reward function in reinforcement learning for autonomous ships](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
+### 🔹 [The structure of the large language model(LLM) application process for designing the reward function in reinforcement learning for autonomous ships](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
 **Description:**   
 **Period:** Feb. 2025 ~ Present  
 **Role:** Undergraduate Researcher
@@ -42,7 +31,7 @@
 - Created reward functions by guiding an LLM with RL environment code and task descriptions.
 - Enabled non-experts to generate reward functions through LLM-guided automation, and reduced reward design time and trial-and-error
   
-### 🔹 [•	Braille and Hangul Simultaneous Learning Devices for the Blind](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
+### 🔹 [Braille and Hangul Simultaneous Learning Devices for the Blind](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
 **Description:** A hardware device for visually impaired individuals to learn Braille through haptic feedback.
 **Period:** Aug. 2024 ~ Nov. 2024  
 **Role:** Team Leader & Hardware Design and Implementation
@@ -51,7 +40,7 @@
 - Selected characters via a web interface, transmitted signals from Raspberry Pi to Arduino, and controlled solenoid actuators for tactile output
 - Resolved power supply issues using an SMPS (Switched-Mode Power Supply)
 
-### 🔹 [•	Medical Posture Correction Game for Disc Prevention and Patients](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
+### 🔹 [Medical Posture Correction Game for Disc Prevention and Patients](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
 **Description:** 
 **Period:** Apr. 2024 ~ Aug. 2024  
 **Role:** Team Leader & AI Application Developer
@@ -94,6 +83,17 @@
 
 <!--- **Paper Title 1** - [Link to Paper]
 - **Paper Title 2** - [Link to Paper]-->
+
+---
+
+## 🛠 Tech Stack
+
+**Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Technologies & Tools**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00599C?style=for-the-badge)
 
 ---
 
