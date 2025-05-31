@@ -14,7 +14,7 @@
 ## 🌟 Research & Project Experiences
 
 ### 🔹 [Integrated evaluation and optimization tools to improve accuracy of generative video ai](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
-**Description:**  
+**Description:** Established a pipeline that utilizes CLIP and YOLO to evaluate the semantic and object-level similarity between text prompts and generated videos, followed by prompt tuning performed by an LLM based on the analysis outcomes.  
 **Period:** Mar. 2025 ~ Present  
 **Role:** Team Leader & Pipeline Implementation 
 - Capstone design project for graduation work
@@ -23,7 +23,7 @@
 - A Large Language Model (LLM) was used to analyze the evaluation results and generate optimized prompt suggestions
 
 ### 🔹 [The structure of the large language model(LLM) application process for designing the reward function in reinforcement learning for autonomous ships](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
-**Description:**   
+**Description:** Inspired by the EUREKA paper, this process utilizes a Large Language Model (LLM) to generate initial reward functions, which are then iteratively improved through human-in-the-loop feedback.  
 **Period:** Feb. 2025 ~ Present  
 **Role:** Undergraduate Researcher
 - Research project at Dong-eui university
@@ -32,7 +32,7 @@
 - Enabled non-experts to generate reward functions through LLM-guided automation, and reduced reward design time and trial-and-error
   
 ### 🔹 [Braille and Hangul Simultaneous Learning Devices for the Blind](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
-**Description:**  
+**Description:** This device supports Braille education for the visually impaired by matching Hangul characters with corresponding Braille patterns, aiming to enhance learning efficiency and address literacy challenges.  
 **Period:** Aug. 2024 ~ Nov. 2024  
 **Role:** Team Leader & Hardware Design and Implementation
 - Team Project for 2024 Creative Comprehensive Design Competition
@@ -41,7 +41,7 @@
 - Resolved power supply issues using an SMPS (Switched-Mode Power Supply)
 
 ### 🔹 [Medical Posture Correction Game for Disc Prevention and Patients](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
-**Description:**  
+**Description:** This AI-powered stretching game aims to prevent and rehabilitate spinal disc conditions by analyzing user posture in real time and integrating the results into interactive gameplay.  
 **Period:** Apr. 2024 ~ Aug. 2024  
 **Role:** Team Leader & AI Application Developer
 - Team Project for Europe-Korea Conference on Science and Technology 2024
