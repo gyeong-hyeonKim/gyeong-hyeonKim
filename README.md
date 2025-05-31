@@ -32,7 +32,7 @@
 - Enabled non-experts to generate reward functions through LLM-guided automation, and reduced reward design time and trial-and-error
   
 ### 🔹 [Braille and Hangul Simultaneous Learning Devices for the Blind](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
-**Description:** A hardware device for visually impaired individuals to learn Braille through haptic feedback.
+**Description:**  
 **Period:** Aug. 2024 ~ Nov. 2024  
 **Role:** Team Leader & Hardware Design and Implementation
 - Team Project for 2024 Creative Comprehensive Design Competition
@@ -41,17 +41,13 @@
 - Resolved power supply issues using an SMPS (Switched-Mode Power Supply)
 
 ### 🔹 [Medical Posture Correction Game for Disc Prevention and Patients](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
-**Description:** 
+**Description:**  
 **Period:** Apr. 2024 ~ Aug. 2024  
 **Role:** Team Leader & AI Application Developer
 - Team Project for Europe-Korea Conference on Science and Technology 2024
 - Selected ResNet among PoseNet to extract human poses with improved accuracy
 - Measured stretching accuracy using joint keypoints analyzed by rule-based AI
 - Game damage varied based on stretching accuracy.
-
-
-
-
 
 ---
 
@@ -83,6 +79,12 @@
 
 <!--- **Paper Title 1** - [Link to Paper]
 - **Paper Title 2** - [Link to Paper]-->
+
+---
+
+## 📚 Paper Review
+
+- **[Eureka: Human-Level Reward Design via Coding Large Language Models](https://docs.google.com/presentation/d/1DNVTrbuXwiMirFCO1JW6XjEazP1D_Bi-nuBfSTT0dWQ/edit?slide=id.g33ef312ebea_0_14#slide=id.g33ef312ebea_0_14)**
 
 ---
 
