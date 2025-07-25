@@ -101,15 +101,15 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=20201561KimGyeongHyeon&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=20201561KimGyeongHyeon&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyeong-hyeonKim&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyeong-hyeonKim&layout=compact&theme=radical)
 
 ---
 
 ## 📞 Contact Me
 
 📧 Email: [kkl01234567@gmail.com]  
-🌐 Website: [https://20201561kimgyeonghyeon.github.io/]  
+🌐 Website: [https://gyeong-hyeonKim.github.io/]  
 🔗 LinkedIn: []  
 
 Feel free to reach out for collaborations or discussions! 🚀
