@@ -3,10 +3,10 @@
 ## 🚀 About Me
 
 - **Name:** Kim GyeongHyeon
-- **Major:** Department of Computer Science and Engineering
+- **Major:** Department of Computer Engineering
 - **Interests:** AI, Computer Vision, Deep Learning, Machine Learning, RL
 - **Current Status:** Bachelor Student at Dongseo University
-- **Portfolio Website:** [Portfolio](https://20201561kimgyeonghyeon.github.io/)
+- **Portfolio Website:** [Portfolio](https://gyeong-hyeonkim.github.io/)
 - **Contact:** kkl01234567@gmail.com
 
 ---
