@@ -13,7 +13,7 @@
 
 ## 🌟 Research & Project Experiences
 
-### 🔹 [Integrated evaluation and optimization tools to improve accuracy of generative video ai](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
+### 🔹 [Integrated evaluation and optimization tools to improve accuracy of generative video ai](https://github.com/gyeong-hyeonKim/PromptTuneVision)
 **Description:** Established a pipeline that utilizes CLIP and YOLO to evaluate the semantic and object-level similarity between text prompts and generated videos, followed by prompt tuning performed by an LLM based on the analysis outcomes.  
 **Period:** Mar. 2025 ~ Present  
 **Role:** Team Leader & Pipeline Implementation 
@@ -22,7 +22,7 @@
 - Extract frames from video using OpenCV, Analyzed object presence and semantic similarity using YOLO and CLIP score
 - A Large Language Model (LLM) was used to analyze the evaluation results and generate optimized prompt suggestions
 
-### 🔹 [The structure of the large language model(LLM) application process for designing the reward function in reinforcement learning for autonomous ships](https://20201561kimgyeonghyeon.github.io/engineeringfestival/)
+### 🔹 [The structure of the large language model(LLM) application process for designing the reward function in reinforcement learning for autonomous ships](https://gyeong-hyeonkim.github.io/conference/conference/)
 **Description:** Inspired by the EUREKA paper, this process utilizes a Large Language Model (LLM) to generate initial reward functions, which are then iteratively improved through human-in-the-loop feedback.  
 **Period:** Feb. 2025 ~ Present  
 **Role:** Undergraduate Researcher
