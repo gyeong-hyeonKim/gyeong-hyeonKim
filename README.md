@@ -81,11 +81,11 @@ Gyeong-Hyeon Kim, Byung-Gook Lee. Se-Hyeon Park, Kwang Hyo Jung, Jaeyong Lee. **
 
 ---
 
-## 📚 Paper Review
+<!--## 📚 Paper Review
 
 - **[Eureka: Human-Level Reward Design via Coding Large Language Models](https://docs.google.com/presentation/d/1DNVTrbuXwiMirFCO1JW6XjEazP1D_Bi-nuBfSTT0dWQ/edit?slide=id.g33ef312ebea_0_14#slide=id.g33ef312ebea_0_14)**
 
----
+----->
 
 ## 🛠 Tech Stack
 
@@ -93,17 +93,17 @@ Gyeong-Hyeon Kim, Byung-Gook Lee. Se-Hyeon Park, Kwang Hyo Jung, Jaeyong Lee. **
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **Technologies & Tools**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00599C?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![Stable Baselines3](https://img.shields.io/badge/Stable_Baselines3-469DF3?style=for-the-badge)
 
 ---
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyeong-hyeonKim&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyeong-hyeonKim&layout=compact&theme=radical)
 
----
+----->
 
 ## 📞 Contact Me
 
